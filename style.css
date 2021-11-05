@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(235, 231, 231);
+}
+h1{
+    color:rgb(80, 80, 80);
+    font-size:45px;
+    font-style:italic;
+}
+body{
+    color:rgb(56, 56, 56); 
+}
+.lingid{
+    color:rgb(0, 0, 0);
+    font-size:italic;
+}
+img{
+    box-shadow: 10px 10px 5px rgb(167, 167, 167);
+}
+.tulp_ülemine{
+    background-color: rgba(255, 57, 57, 0.253);
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
